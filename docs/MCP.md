@@ -1,6 +1,6 @@
 # GitHub MCP dla organizacji property-aggregator
 
-Wklejaj kolejno w **Wierszu polecenia (cmd)**.
+Wklejaj kolejno w **wierszu poleceń (cmd)**.
 
 ## 1. Token (w przeglądarce)
 
@@ -14,13 +14,18 @@ Wklejaj kolejno w **Wierszu polecenia (cmd)**.
 
 Kliknij **Generate token** i skopiuj token.
 
-## 2. Instalacja GitHub CLI
+## 2. Instalacja narzędzi (GitHub CLI i Claude Code)
 
 ```bat
 winget install --id GitHub.cli
+winget install --id OpenJS.NodeJS
 ```
 
-Zamknij i otwórz cmd ponownie.
+Po zakończeniu instalacji zamknij i otwórz cmd ponownie, a następnie zainstaluj Claude CLI:
+
+```bat
+npm install -g @anthropic-ai/claude-code
+```
 
 ## 3. Logowanie
 
