@@ -69,7 +69,7 @@ Zapamiętaj: na GitHubie pracuj wyłącznie na repozytoriach organizacji propert
 
 W nowej sesji `claude` wpisz: `Wylistuj repozytoria organizacji property-aggregator`.
 
-Powinno być 6: `.github`, `backend`, `frontend`, `infrastructure`, `property-portals-mock`, `scraper`.
+Powinna pojawić się lista wszystkich repozytoriów organizacji (m.in. `backend`, `frontend`, `scraper`, `docs`). Jeśli lista jest pusta albo brakuje repozytoriów, sprawdź token i uprawnienia (Repository access: All repositories).
 
 ## Zasady
 
