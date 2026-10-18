@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-  <!-- Tło GitHub Dark Mode -->
-  <rect width="512" height="512" rx="100" fill="#0D1117"/>
+  <!-- Tło: limonka ze strony -->
+  <rect width="512" height="512" rx="24" fill="#C1F48F"/>
 
-  <!-- Oryginalna ikona z okapem dachu -->
-  <g fill="none" stroke="#58A6FF" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
-    <!-- Kontur Domku z daszkiem -->
+  <!-- Ikona: ciemna zieleń ze strony -->
+  <g fill="none" stroke="#1E2C0F" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Kontur domku z daszkiem -->
     <path d="M 100 420 L 100 230 L 70 230 L 256 75 L 442 230 L 412 230 L 412 360" />
     <path d="M 100 420 L 310 420" />
-    
+
     <!-- Lupa -->
     <circle cx="256" cy="300" r="85" stroke-width="30"/>
     <line x1="318" y1="362" x2="400" y2="444" stroke-width="36"/>
